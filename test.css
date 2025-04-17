@@ -37,6 +37,6 @@ img {
 }
 
 h2:last-of-type {
-    
+    max-width: 1000px;
     color: blue;
 }
