@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    background-color: rgb(116, 58, 58);
+    border-radius: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: left;
+    color: rgb(57, 17, 17);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    background-color: red;
+    width: 60px;
+    border-radius: 14%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: medium;
+}
+
+h3 {
+    text-align: ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+img {
+    border-radius: 20px;
+}
