@@ -7,9 +7,7 @@ body {
   }
   
 
-.head {
-    color: #bd6619;
-}
+
 
 .resident {
     text-align: center;
@@ -34,7 +32,7 @@ body {
 
 .texto1 {
     text-align: left;
-    color: rgb(57, 17, 17);
+    color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -71,7 +69,7 @@ img {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 50px;
     max-width: 1289px;
-    color: #724224;
+    color: #ffffff;
 } 
 
 .adawong {
@@ -88,7 +86,7 @@ img {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 60px;
     max-width: 1289px;
-    color: #7b3030;
+    color: #ffffff;
 }
 
 .nomeashley{
@@ -105,7 +103,7 @@ img {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 50px;
     max-width: 1289px;
-    color: #bd6619;
+    color: #ffffff;
 }
 
 .botaoada {
