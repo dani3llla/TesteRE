@@ -1,9 +1,23 @@
+body {
+    background-image: url('https://images3.alphacoders.com/134/thumb-1920-1343895.png');
+    background-size: cover;        /* cobre toda a tela */
+    background-repeat: no-repeat;  /* não repete a imagem */
+    background-position: center;   /* centraliza a imagem */
+    
+  }
+  
+
+.head {
+    color: #bd6619;
+}
+
 .resident {
     text-align: center;
     background-color: rgb(116, 58, 58);
-    border-radius: 40px;
+    border-radius: 8px;
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 20px; 
 }
 
 .personagens {
@@ -12,6 +26,8 @@
     border-radius: 8px;
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    
 }
 
 
@@ -23,11 +39,11 @@
 }
 
 button {
-    background-color: rgb(88, 57, 57);
+    background-color: #463931;
     width: 120px;
     height: 50px;    
     border-radius: 11%;
-    border-color: rgb(44, 26, 19);
+    border-color: #402f25;
 }
 
 a {
@@ -38,7 +54,9 @@ a {
     font-size: medium;
 }
 
-.leon {
+.leonkennedy {
+    color: #724224;
+    font-size:xx-large;
     margin-left: 10px;      
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
@@ -49,9 +67,59 @@ img {
     border-radius: 20px;
 }
 
-.texto2:last-of-type {
+.texto2 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 50px;
     max-width: 1289px;
-    color: rgb(0, 0, 0);
-}   
+    color: #724224;
+} 
+
+.adawong {
+    margin-left: 10px;      
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#7b3030 ;
+}
+
+.ada {
+    width:30% ; height: 30%;
+}
+
+.textoada {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 60px;
+    max-width: 1289px;
+    color: #7b3030;
+}
+
+.nomeashley{
+    margin-left: 10px;      
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #bd6619;
+}
+
+.imgashley {
+    width: 30%; height: 30%;
+}
+
+.textoashley {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    max-width: 1289px;
+    color: #bd6619;
+}
+
+.botaoada {
+    background-color: #621616;
+    width: 120px;
+    height: 50px;    
+    border-radius: 11%;
+    border-color: #350909;
+}
+
+.botaoashley {
+    background-color: #e19049;
+    width: 120px;
+    height: 50px;    
+    border-radius: 11%;
+    border-color: #bd6619;
+}

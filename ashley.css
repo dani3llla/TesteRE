@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://images6.alphacoders.com/512/thumb-1920-512054.jpg');
+    background-size: cover;        /* cobre toda a tela */
+    background-repeat: no-repeat;  /* não repete a imagem */
+    background-position: center;   /* centraliza a imagem */
+    
+  }
+
+h1 {
+    font-family:cursive;
+    text-align: center;
+    color: rgb(190, 102, 29);
+    background-color: #f0b687;
+    border-radius: 8px;
+}
+
+.ashleyimg1{
+    width: 33% ; height: 33% ;
+}
+
+.ashleyimg2{
+    width: 33% ; height: 33% ;
+}
+
+ .ashleyimg3 {
+    width: 33% ; height: 33% ;
+ }

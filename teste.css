@@ -1,11 +1,20 @@
 body {
+    background-image: url('https://images.alphacoders.com/133/thumb-1920-1339211.png');
+    background-size: cover;        /* cobre toda a tela */
+    background-repeat: no-repeat;  /* não repete a imagem */
+    background-position: center;   /* centraliza a imagem */
+    
+  }
+  
+
+body {
     color: rgb(237, 199, 218);
 }
 
 h1 {
     text-align: center;
     color: mediumvioletred;
-    background-color: rgb(230, 189, 213);
+    background-color: rgb(244, 159, 183);
     border-radius: 8px;
 }
 
