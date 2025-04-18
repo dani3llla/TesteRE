@@ -1,0 +1,32 @@
+body {
+    color: rgb(237, 199, 218);
+}
+
+h1 {
+    text-align: center;
+    color: mediumvioletred;
+    background-color: rgb(230, 189, 213);
+    border-radius: 8px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 30%; height: 30%;
+}
+
+.gatoo {
+    width: 20% ; height: 20% ;
+}
+
+.res4 {
+    width: 22% ; height: 22% ;
+}
+
+.davibrito {
+    width: 40% ; height: 40% ;
+}
+
+.calmacalabreso {
+    width: 16% ; height: 16% ;
+}

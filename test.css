@@ -1,4 +1,4 @@
-h1 {
+.resident {
     text-align: center;
     background-color: rgb(116, 58, 58);
     border-radius: 40px;
@@ -6,37 +6,52 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h2 {
+.personagens {
+    text-align: center;
+    background-color: rgb(116, 58, 58);
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.texto1 {
     text-align: left;
     color: rgb(57, 17, 17);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 button {
-    background-color: red;
-    width: 60px;
-    border-radius: 14%;
+    background-color: rgb(88, 57, 57);
+    width: 120px;
+    height: 50px;    
+    border-radius: 11%;
+    border-color: rgb(44, 26, 19);
 }
 
 a {
     text-decoration: none;
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    color: rgb(236, 236, 236);
+    font-family: cursive;
     font-weight: bold;
     font-size: medium;
 }
 
-h3 {
-    text-align: ;
+.leon {
+    margin-left: 10px;      
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 img {
+    margin-right: 30px;
     border-radius: 20px;
 }
 
-h2:last-of-type {
-    max-width: 1000px;
-    color: blue;
-}
+.texto2:last-of-type {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    max-width: 1289px;
+    color: rgb(0, 0, 0);
+}   
